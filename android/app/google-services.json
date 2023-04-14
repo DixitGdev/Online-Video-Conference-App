@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337184449359",
+    "firebase_url": "https://lets-meet-6bfc8.firebaseio.com",
+    "project_id": "lets-meet-6bfc8",
+    "storage_bucket": "lets-meet-6bfc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337184449359:android:1c9b59fc2b2d4c83d05b3a",
+        "android_client_info": {
+          "package_name": "lets.meet.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337184449359-eta2aauuabap553rh1l3j9uheu3ttbhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7KWmKrH5NqF3VFo1BtxMw64WsoNsaBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337184449359-eta2aauuabap553rh1l3j9uheu3ttbhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
