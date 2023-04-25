@@ -8,7 +8,7 @@
 * ### Voice call
 * ### Live chat while video
 
-### *Lets Meet is a free online conference and video calling application, and its connect you with your friends and families. Lets Meet provide crystal clear voice, High Definition Video, Real time chatting and Meeting for work. Lets Meet video conference app provide end-to-end encryption and login/signup for the users, so no one can misuses the conference.*
+### *Let's Meet is a free online conference and video calling application, and it connects you with your friends and families. Let's Meet provide crystal clear voice, High Definition Video, Real-time chatting and Meeting for work. Let's Meet video conference app provides end-to-end encryption and login/signup for the users, so no one can misuse the conference.*
 
 ### **Technologies & Libraries Used**
 * ### [Flutter](https://flutter.dev/)
